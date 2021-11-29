@@ -1,0 +1,2 @@
+export const ADD_LIST_DEVICE = 'ADD_LIST_DEVICE';
+export const DEVICE_SELECTED = 'DEVICE_SELECTED';
